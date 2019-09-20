@@ -11,7 +11,9 @@
     {
       "matches": [
         "*://raw.githubusercontent.com/**.ipynb",
-        "*://raw.githubusercontent.com/**.ipynb?*"
+        "*://raw.githubusercontent.com/**.ipynb?*",
+        "*://gist.githubusercontent.com/**.ipynb",
+        "*://gist.githubusercontent.com/**.ipynb?*"
       ],
       "css": [
         "src/css/normalize.css",
