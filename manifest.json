@@ -22,13 +22,13 @@
         "src/css/nbview.css"
       ],
       "js": [
+        "src/js/nbview.js",
         "src/js/katex.min.js",
         "src/js/auto-render.min.js",
         "src/js/highlight.min.js",
         "src/js/ansi_up.js",
         "src/js/marked.min.js",
-        "src/js/notebook.js",
-        "src/js/nbview.js"
+        "src/js/notebook.js"
       ]
     }
   ]
