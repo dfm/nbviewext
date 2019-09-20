@@ -10,4 +10,4 @@ You can install the development version by cloning the GitHub repository, naviga
 
 ## Known issues
 
-Math currently rendering doesn't work.
+Math rendering currently doesn't work.
